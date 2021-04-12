@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>8 on Jim Zenn</title>
-    <link>https://jimzenn.com/volumes/8/</link>
+    <link>https://jimzenn.github.io/volumes/8/</link>
     <description>Recent content in 8 on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Jan 2019 20:16:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/volumes/8/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/volumes/8/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Metrics and Metric Spaces</title>
-      <link>https://jimzenn.com/analysis/8.1/</link>
+      <link>https://jimzenn.github.io/analysis/8.1/</link>
       <pubDate>Sun, 06 Jan 2019 16:31:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/8.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/8.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://jimzenn.com/optimization/8.1/</link>
+      <link>https://jimzenn.github.io/optimization/8.1/</link>
       <pubDate>Mon, 15 Oct 2018 21:47:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/8.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/8.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Some point-set topology of metric spaces</title>
-      <link>https://jimzenn.com/analysis/8.2/</link>
+      <link>https://jimzenn.github.io/analysis/8.2/</link>
       <pubDate>Tue, 15 Jan 2019 15:03:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/8.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/8.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The method of steepest descent</title>
-      <link>https://jimzenn.com/optimization/8.2/</link>
+      <link>https://jimzenn.github.io/optimization/8.2/</link>
       <pubDate>Tue, 16 Oct 2018 21:04:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/8.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/8.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relative Topology</title>
-      <link>https://jimzenn.com/analysis/8.3/</link>
+      <link>https://jimzenn.github.io/analysis/8.3/</link>
       <pubDate>Sun, 27 Jan 2019 18:30:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/8.3/</guid>
+      <guid>https://jimzenn.github.io/analysis/8.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Gradient Methods</title>
-      <link>https://jimzenn.com/optimization/8.3/</link>
+      <link>https://jimzenn.github.io/optimization/8.3/</link>
       <pubDate>Sun, 21 Oct 2018 23:07:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/8.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/8.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cauchy sequences and complete metric spaces</title>
-      <link>https://jimzenn.com/analysis/8.4/</link>
+      <link>https://jimzenn.github.io/analysis/8.4/</link>
       <pubDate>Sun, 27 Jan 2019 19:31:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/8.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/8.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compact metric spaces</title>
-      <link>https://jimzenn.com/analysis/8.5/</link>
+      <link>https://jimzenn.github.io/analysis/8.5/</link>
       <pubDate>Sun, 27 Jan 2019 20:16:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/8.5/</guid>
+      <guid>https://jimzenn.github.io/analysis/8.5/</guid>
       <description></description>
     </item>
     

@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>10 on Jim Zenn</title>
-    <link>https://jimzenn.com/volumes/10/</link>
+    <link>https://jimzenn.github.io/volumes/10/</link>
     <description>Recent content in 10 on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Mar 2019 15:20:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/volumes/10/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/volumes/10/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Limiting values of functions</title>
-      <link>https://jimzenn.com/analysis/10.1/</link>
+      <link>https://jimzenn.github.io/analysis/10.1/</link>
       <pubDate>Wed, 13 Feb 2019 14:53:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://jimzenn.com/optimization/10.1/</link>
+      <link>https://jimzenn.github.io/optimization/10.1/</link>
       <pubDate>Thu, 15 Nov 2018 15:53:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/10.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/10.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pointwise and uniform convergence</title>
-      <link>https://jimzenn.com/analysis/10.2/</link>
+      <link>https://jimzenn.github.io/analysis/10.2/</link>
       <pubDate>Thu, 14 Feb 2019 01:50:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Conjugate Direction Algorithm</title>
-      <link>https://jimzenn.com/optimization/10.2/</link>
+      <link>https://jimzenn.github.io/optimization/10.2/</link>
       <pubDate>Mon, 03 Dec 2018 23:28:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/10.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/10.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Conjugate Gradient Algorithm</title>
-      <link>https://jimzenn.com/optimization/10.3/</link>
+      <link>https://jimzenn.github.io/optimization/10.3/</link>
       <pubDate>Tue, 04 Dec 2018 18:38:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/10.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/10.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The metric of uniform convergence</title>
-      <link>https://jimzenn.com/analysis/10.4/</link>
+      <link>https://jimzenn.github.io/analysis/10.4/</link>
       <pubDate>Sun, 24 Feb 2019 15:27:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Series of functions; the Weierstrass M-test</title>
-      <link>https://jimzenn.com/analysis/10.5/</link>
+      <link>https://jimzenn.github.io/analysis/10.5/</link>
       <pubDate>Sun, 24 Feb 2019 17:05:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.5/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uniform Convergence and Integration</title>
-      <link>https://jimzenn.com/analysis/10.6/</link>
+      <link>https://jimzenn.github.io/analysis/10.6/</link>
       <pubDate>Thu, 07 Mar 2019 15:12:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.6/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uniform Convergence and derivatives</title>
-      <link>https://jimzenn.com/analysis/10.7/</link>
+      <link>https://jimzenn.github.io/analysis/10.7/</link>
       <pubDate>Thu, 07 Mar 2019 15:20:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.7/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.7/</guid>
       <description></description>
     </item>
     

@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>15 on Jim Zenn</title>
-    <link>https://jimzenn.com/volumes/15/</link>
+    <link>https://jimzenn.github.io/volumes/15/</link>
     <description>Recent content in 15 on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Feb 2019 16:14:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/volumes/15/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/volumes/15/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Linear Programming</title>
-      <link>https://jimzenn.com/optimization/15.1/</link>
+      <link>https://jimzenn.github.io/optimization/15.1/</link>
       <pubDate>Sun, 09 Dec 2018 13:40:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/15.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/15.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Standard Form Linear Programs</title>
-      <link>https://jimzenn.com/optimization/15.5/</link>
+      <link>https://jimzenn.github.io/optimization/15.5/</link>
       <pubDate>Sun, 09 Dec 2018 13:47:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/15.5/</guid>
+      <guid>https://jimzenn.github.io/optimization/15.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basic Solutions</title>
-      <link>https://jimzenn.com/optimization/15.6/</link>
+      <link>https://jimzenn.github.io/optimization/15.6/</link>
       <pubDate>Sun, 09 Dec 2018 15:59:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/15.6/</guid>
+      <guid>https://jimzenn.github.io/optimization/15.6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Properties of Basic Solutions</title>
-      <link>https://jimzenn.com/optimization/15.7/</link>
+      <link>https://jimzenn.github.io/optimization/15.7/</link>
       <pubDate>Sun, 09 Dec 2018 16:39:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/15.7/</guid>
+      <guid>https://jimzenn.github.io/optimization/15.7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Midterm Review</title>
-      <link>https://jimzenn.com/analysis/midterm2/</link>
+      <link>https://jimzenn.github.io/analysis/midterm2/</link>
       <pubDate>Fri, 22 Feb 2019 16:14:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/midterm2/</guid>
+      <guid>https://jimzenn.github.io/analysis/midterm2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Final</title>
-      <link>https://jimzenn.com/analysis/final/</link>
+      <link>https://jimzenn.github.io/analysis/final/</link>
       <pubDate>Fri, 22 Feb 2019 16:14:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/final/</guid>
+      <guid>https://jimzenn.github.io/analysis/final/</guid>
       <description></description>
     </item>
     

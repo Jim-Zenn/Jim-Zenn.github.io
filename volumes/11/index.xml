@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>11 on Jim Zenn</title>
-    <link>https://jimzenn.com/volumes/11/</link>
+    <link>https://jimzenn.github.io/volumes/11/</link>
     <description>Recent content in 11 on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Mar 2019 17:35:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/volumes/11/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/volumes/11/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Periodic Functions</title>
-      <link>https://jimzenn.com/analysis/12.1/</link>
+      <link>https://jimzenn.github.io/analysis/12.1/</link>
       <pubDate>Wed, 13 Mar 2019 12:06:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/12.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/12.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal Power Series</title>
-      <link>https://jimzenn.com/analysis/11.1/</link>
+      <link>https://jimzenn.github.io/analysis/11.1/</link>
       <pubDate>Wed, 06 Mar 2019 12:00:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://jimzenn.com/optimization/11.1/</link>
+      <link>https://jimzenn.github.io/optimization/11.1/</link>
       <pubDate>Thu, 15 Nov 2018 16:00:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/11.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/11.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real analytic functions</title>
-      <link>https://jimzenn.com/analysis/11.2/</link>
+      <link>https://jimzenn.github.io/analysis/11.2/</link>
       <pubDate>Wed, 13 Mar 2019 14:55:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximating the Inverse Hessian</title>
-      <link>https://jimzenn.com/optimization/11.2/</link>
+      <link>https://jimzenn.github.io/optimization/11.2/</link>
       <pubDate>Thu, 15 Nov 2018 16:00:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/11.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/11.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abel&#39;s theorem</title>
-      <link>https://jimzenn.com/analysis/11.3/</link>
+      <link>https://jimzenn.github.io/analysis/11.3/</link>
       <pubDate>Wed, 13 Mar 2019 16:21:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.3/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Rank One Correction Formula</title>
-      <link>https://jimzenn.com/optimization/11.3/</link>
+      <link>https://jimzenn.github.io/optimization/11.3/</link>
       <pubDate>Tue, 04 Dec 2018 19:57:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/11.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/11.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiplication of Power Series</title>
-      <link>https://jimzenn.com/analysis/11.4/</link>
+      <link>https://jimzenn.github.io/analysis/11.4/</link>
       <pubDate>Wed, 13 Mar 2019 16:31:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The exponential and logarithm functions</title>
-      <link>https://jimzenn.com/analysis/11.5/</link>
+      <link>https://jimzenn.github.io/analysis/11.5/</link>
       <pubDate>Wed, 13 Mar 2019 16:39:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.5/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trigonometric Functions</title>
-      <link>https://jimzenn.com/analysis/11.7/</link>
+      <link>https://jimzenn.github.io/analysis/11.7/</link>
       <pubDate>Thu, 14 Mar 2019 17:35:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.7/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.7/</guid>
       <description></description>
     </item>
     

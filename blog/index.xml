@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Jim Zenn</title>
-    <link>https://jimzenn.com/blog/</link>
+    <link>https://jimzenn.github.io/blog/</link>
     <description>Recent content in Blogs on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 May 2018 17:11:48 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shanghai Once Again</title>
-      <link>https://jimzenn.com/blog/shanghai-once-again/</link>
+      <link>https://jimzenn.github.io/blog/shanghai-once-again/</link>
       <pubDate>Tue, 29 May 2018 17:11:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/blog/shanghai-once-again/</guid>
+      <guid>https://jimzenn.github.io/blog/shanghai-once-again/</guid>
       <description>When I left Shanghai for the US I was all on my own. I met new friends, got a new community, had a new life style and embraced a different culture. Everything was fresh. By the end the second year, I already see Berkeley as my second home.
 Now I am back, to my real home, where my family is, where I grew up, where I spent 18 years of my life.</description>
     </item>

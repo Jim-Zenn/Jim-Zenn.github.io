@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 on Jim Zenn</title>
-    <link>https://jimzenn.com/volumes/7/</link>
+    <link>https://jimzenn.github.io/volumes/7/</link>
     <description>Recent content in 7 on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Oct 2018 15:53:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/volumes/7/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/volumes/7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Golden Section Search</title>
-      <link>https://jimzenn.com/optimization/7.1/</link>
+      <link>https://jimzenn.github.io/optimization/7.1/</link>
       <pubDate>Sun, 14 Oct 2018 14:54:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/7.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/7.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fibonacci Search</title>
-      <link>https://jimzenn.com/optimization/7.2/</link>
+      <link>https://jimzenn.github.io/optimization/7.2/</link>
       <pubDate>Sun, 14 Oct 2018 16:18:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/7.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/7.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Newton&#39;s Method</title>
-      <link>https://jimzenn.com/optimization/7.3/</link>
+      <link>https://jimzenn.github.io/optimization/7.3/</link>
       <pubDate>Sun, 14 Oct 2018 23:49:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/7.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/7.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secant Method</title>
-      <link>https://jimzenn.com/optimization/7.4/</link>
+      <link>https://jimzenn.github.io/optimization/7.4/</link>
       <pubDate>Mon, 15 Oct 2018 15:53:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/7.4/</guid>
+      <guid>https://jimzenn.github.io/optimization/7.4/</guid>
       <description></description>
     </item>
     

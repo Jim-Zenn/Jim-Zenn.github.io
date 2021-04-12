@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5 on Jim Zenn</title>
-    <link>https://jimzenn.com/volumes/5/</link>
+    <link>https://jimzenn.github.io/volumes/5/</link>
     <description>Recent content in 5 on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Feb 2019 21:09:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/volumes/5/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/volumes/5/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Limit Theorems</title>
-      <link>https://jimzenn.com/probability-theory/5.0/</link>
+      <link>https://jimzenn.github.io/probability-theory/5.0/</link>
       <pubDate>Wed, 06 Feb 2019 09:04:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/5.0/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/5.0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markov and Chevyshev Inequalities</title>
-      <link>https://jimzenn.com/probability-theory/5.1/</link>
+      <link>https://jimzenn.github.io/probability-theory/5.1/</link>
       <pubDate>Mon, 25 Feb 2019 14:54:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/5.1/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/5.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequences and Limits</title>
-      <link>https://jimzenn.com/optimization/5.1/</link>
+      <link>https://jimzenn.github.io/optimization/5.1/</link>
       <pubDate>Tue, 09 Oct 2018 12:39:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/5.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/5.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basic Properties of the Derivative</title>
-      <link>https://jimzenn.com/analysis/5.1/</link>
+      <link>https://jimzenn.github.io/analysis/5.1/</link>
       <pubDate>Thu, 30 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/5.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/5.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Weak Law of Large Numbers</title>
-      <link>https://jimzenn.com/probability-theory/5.2/</link>
+      <link>https://jimzenn.github.io/probability-theory/5.2/</link>
       <pubDate>Mon, 25 Feb 2019 16:30:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/5.2/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/5.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiability</title>
-      <link>https://jimzenn.com/optimization/5.2/</link>
+      <link>https://jimzenn.github.io/optimization/5.2/</link>
       <pubDate>Tue, 09 Oct 2018 13:57:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/5.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/5.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Mean Value Theorem</title>
-      <link>https://jimzenn.com/analysis/5.2/</link>
+      <link>https://jimzenn.github.io/analysis/5.2/</link>
       <pubDate>Sat, 01 Sep 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/5.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/5.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convergence in Probability</title>
-      <link>https://jimzenn.com/probability-theory/5.3/</link>
+      <link>https://jimzenn.github.io/probability-theory/5.3/</link>
       <pubDate>Mon, 25 Feb 2019 16:45:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/5.3/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/5.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The derivative Matrix</title>
-      <link>https://jimzenn.com/optimization/5.3/</link>
+      <link>https://jimzenn.github.io/optimization/5.3/</link>
       <pubDate>Tue, 09 Oct 2018 14:14:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/5.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/5.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The central limit theorem</title>
-      <link>https://jimzenn.com/probability-theory/5.4/</link>
+      <link>https://jimzenn.github.io/probability-theory/5.4/</link>
       <pubDate>Wed, 27 Feb 2019 17:20:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/5.4/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/5.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Strong Law of Large Numbers</title>
-      <link>https://jimzenn.com/probability-theory/5.5/</link>
+      <link>https://jimzenn.github.io/probability-theory/5.5/</link>
       <pubDate>Wed, 27 Feb 2019 21:09:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/5.5/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/5.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taylor Series</title>
-      <link>https://jimzenn.com/optimization/5.6/</link>
+      <link>https://jimzenn.github.io/optimization/5.6/</link>
       <pubDate>Tue, 09 Oct 2018 14:14:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/5.6/</guid>
+      <guid>https://jimzenn.github.io/optimization/5.6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eigenvalues and Eigenvectors</title>
-      <link>https://jimzenn.com/linear-algebra/5.1/</link>
+      <link>https://jimzenn.github.io/linear-algebra/5.1/</link>
       <pubDate>Wed, 25 Jul 2018 12:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/linear-algebra/5.1/</guid>
+      <guid>https://jimzenn.github.io/linear-algebra/5.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagonalizability</title>
-      <link>https://jimzenn.com/linear-algebra/5.2/</link>
+      <link>https://jimzenn.github.io/linear-algebra/5.2/</link>
       <pubDate>Thu, 26 Jul 2018 12:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/linear-algebra/5.2/</guid>
+      <guid>https://jimzenn.github.io/linear-algebra/5.2/</guid>
       <description></description>
     </item>
     

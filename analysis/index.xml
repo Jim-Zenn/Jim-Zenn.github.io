@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analyses on Jim Zenn</title>
-    <link>https://jimzenn.com/analysis/</link>
+    <link>https://jimzenn.github.io/analysis/</link>
     <description>Recent content in Analyses on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Mar 2019 17:35:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The set N of Natural Numbers</title>
-      <link>https://jimzenn.com/analysis/1.1/</link>
+      <link>https://jimzenn.github.io/analysis/1.1/</link>
       <pubDate>Mon, 06 Aug 2018 11:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/1.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/1.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The set Q of Rational Numbers</title>
-      <link>https://jimzenn.com/analysis/1.2/</link>
+      <link>https://jimzenn.github.io/analysis/1.2/</link>
       <pubDate>Mon, 06 Aug 2018 11:33:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/1.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/1.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The set R of Rational Numbers</title>
-      <link>https://jimzenn.com/analysis/1.3/</link>
+      <link>https://jimzenn.github.io/analysis/1.3/</link>
       <pubDate>Mon, 06 Aug 2018 11:45:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/1.3/</guid>
+      <guid>https://jimzenn.github.io/analysis/1.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The completeness Axiom</title>
-      <link>https://jimzenn.com/analysis/1.4/</link>
+      <link>https://jimzenn.github.io/analysis/1.4/</link>
       <pubDate>Wed, 08 Aug 2018 11:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/1.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/1.4/</guid>
       <description>&lt;div class=&#34;latex-macros&#34;&gt;
   
     $\newcommand{\br}{\\}$
@@ -128,334 +128,334 @@
     
     <item>
       <title>Limits of Sequences</title>
-      <link>https://jimzenn.com/analysis/2.1/</link>
+      <link>https://jimzenn.github.io/analysis/2.1/</link>
       <pubDate>Wed, 08 Aug 2018 12:43:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Discussion about Proofs</title>
-      <link>https://jimzenn.com/analysis/2.2/</link>
+      <link>https://jimzenn.github.io/analysis/2.2/</link>
       <pubDate>Sun, 12 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limit Theorems for Sequences</title>
-      <link>https://jimzenn.com/analysis/2.3/</link>
+      <link>https://jimzenn.github.io/analysis/2.3/</link>
       <pubDate>Mon, 13 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.3/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monotone Sequences and Cauchy Sequences</title>
-      <link>https://jimzenn.com/analysis/2.4/</link>
+      <link>https://jimzenn.github.io/analysis/2.4/</link>
       <pubDate>Thu, 16 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subsequences</title>
-      <link>https://jimzenn.com/analysis/2.5/</link>
+      <link>https://jimzenn.github.io/analysis/2.5/</link>
       <pubDate>Mon, 20 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.5/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alternating Series and Integral Tests</title>
-      <link>https://jimzenn.com/analysis/2.9/</link>
+      <link>https://jimzenn.github.io/analysis/2.9/</link>
       <pubDate>Wed, 22 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.9/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Functions</title>
-      <link>https://jimzenn.com/analysis/3.1/</link>
+      <link>https://jimzenn.github.io/analysis/3.1/</link>
       <pubDate>Mon, 27 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/3.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/3.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Properties of Continuous Functions</title>
-      <link>https://jimzenn.com/analysis/3.2/</link>
+      <link>https://jimzenn.github.io/analysis/3.2/</link>
       <pubDate>Wed, 29 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/3.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/3.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uniform Continuity</title>
-      <link>https://jimzenn.com/analysis/3.3/</link>
+      <link>https://jimzenn.github.io/analysis/3.3/</link>
       <pubDate>Thu, 30 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/3.3/</guid>
+      <guid>https://jimzenn.github.io/analysis/3.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limits of Functions</title>
-      <link>https://jimzenn.com/analysis/3.4/</link>
+      <link>https://jimzenn.github.io/analysis/3.4/</link>
       <pubDate>Thu, 30 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/3.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/3.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basic Properties of the Derivative</title>
-      <link>https://jimzenn.com/analysis/5.1/</link>
+      <link>https://jimzenn.github.io/analysis/5.1/</link>
       <pubDate>Thu, 30 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/5.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/5.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Mean Value Theorem</title>
-      <link>https://jimzenn.com/analysis/5.2/</link>
+      <link>https://jimzenn.github.io/analysis/5.2/</link>
       <pubDate>Sat, 01 Sep 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/5.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/5.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metrics and Metric Spaces</title>
-      <link>https://jimzenn.com/analysis/8.1/</link>
+      <link>https://jimzenn.github.io/analysis/8.1/</link>
       <pubDate>Sun, 06 Jan 2019 16:31:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/8.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/8.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Some point-set topology of metric spaces</title>
-      <link>https://jimzenn.com/analysis/8.2/</link>
+      <link>https://jimzenn.github.io/analysis/8.2/</link>
       <pubDate>Tue, 15 Jan 2019 15:03:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/8.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/8.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relative Topology</title>
-      <link>https://jimzenn.com/analysis/8.3/</link>
+      <link>https://jimzenn.github.io/analysis/8.3/</link>
       <pubDate>Sun, 27 Jan 2019 18:30:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/8.3/</guid>
+      <guid>https://jimzenn.github.io/analysis/8.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cauchy sequences and complete metric spaces</title>
-      <link>https://jimzenn.com/analysis/8.4/</link>
+      <link>https://jimzenn.github.io/analysis/8.4/</link>
       <pubDate>Sun, 27 Jan 2019 19:31:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/8.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/8.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compact metric spaces</title>
-      <link>https://jimzenn.com/analysis/8.5/</link>
+      <link>https://jimzenn.github.io/analysis/8.5/</link>
       <pubDate>Sun, 27 Jan 2019 20:16:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/8.5/</guid>
+      <guid>https://jimzenn.github.io/analysis/8.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Functions</title>
-      <link>https://jimzenn.com/analysis/9.1/</link>
+      <link>https://jimzenn.github.io/analysis/9.1/</link>
       <pubDate>Wed, 30 Jan 2019 13:04:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/9.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/9.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuity and Product Spaces</title>
-      <link>https://jimzenn.com/analysis/9.2/</link>
+      <link>https://jimzenn.github.io/analysis/9.2/</link>
       <pubDate>Wed, 13 Feb 2019 23:35:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/9.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/9.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuity and Compactness</title>
-      <link>https://jimzenn.com/analysis/9.3/</link>
+      <link>https://jimzenn.github.io/analysis/9.3/</link>
       <pubDate>Thu, 14 Feb 2019 00:52:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/9.3/</guid>
+      <guid>https://jimzenn.github.io/analysis/9.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuity and Connectedness</title>
-      <link>https://jimzenn.com/analysis/9.4/</link>
+      <link>https://jimzenn.github.io/analysis/9.4/</link>
       <pubDate>Mon, 11 Feb 2019 13:21:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/9.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/9.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limiting values of functions</title>
-      <link>https://jimzenn.com/analysis/10.1/</link>
+      <link>https://jimzenn.github.io/analysis/10.1/</link>
       <pubDate>Wed, 13 Feb 2019 14:53:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pointwise and uniform convergence</title>
-      <link>https://jimzenn.com/analysis/10.2/</link>
+      <link>https://jimzenn.github.io/analysis/10.2/</link>
       <pubDate>Thu, 14 Feb 2019 01:50:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The metric of uniform convergence</title>
-      <link>https://jimzenn.com/analysis/10.4/</link>
+      <link>https://jimzenn.github.io/analysis/10.4/</link>
       <pubDate>Sun, 24 Feb 2019 15:27:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Series of functions; the Weierstrass M-test</title>
-      <link>https://jimzenn.com/analysis/10.5/</link>
+      <link>https://jimzenn.github.io/analysis/10.5/</link>
       <pubDate>Sun, 24 Feb 2019 17:05:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.5/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uniform Convergence and Integration</title>
-      <link>https://jimzenn.com/analysis/10.6/</link>
+      <link>https://jimzenn.github.io/analysis/10.6/</link>
       <pubDate>Thu, 07 Mar 2019 15:12:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.6/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uniform Convergence and derivatives</title>
-      <link>https://jimzenn.com/analysis/10.7/</link>
+      <link>https://jimzenn.github.io/analysis/10.7/</link>
       <pubDate>Thu, 07 Mar 2019 15:20:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/10.7/</guid>
+      <guid>https://jimzenn.github.io/analysis/10.7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Periodic Functions</title>
-      <link>https://jimzenn.com/analysis/12.1/</link>
+      <link>https://jimzenn.github.io/analysis/12.1/</link>
       <pubDate>Wed, 13 Mar 2019 12:06:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/12.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/12.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal Power Series</title>
-      <link>https://jimzenn.com/analysis/11.1/</link>
+      <link>https://jimzenn.github.io/analysis/11.1/</link>
       <pubDate>Wed, 06 Mar 2019 12:00:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real analytic functions</title>
-      <link>https://jimzenn.com/analysis/11.2/</link>
+      <link>https://jimzenn.github.io/analysis/11.2/</link>
       <pubDate>Wed, 13 Mar 2019 14:55:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abel&#39;s theorem</title>
-      <link>https://jimzenn.com/analysis/11.3/</link>
+      <link>https://jimzenn.github.io/analysis/11.3/</link>
       <pubDate>Wed, 13 Mar 2019 16:21:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.3/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiplication of Power Series</title>
-      <link>https://jimzenn.com/analysis/11.4/</link>
+      <link>https://jimzenn.github.io/analysis/11.4/</link>
       <pubDate>Wed, 13 Mar 2019 16:31:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The exponential and logarithm functions</title>
-      <link>https://jimzenn.com/analysis/11.5/</link>
+      <link>https://jimzenn.github.io/analysis/11.5/</link>
       <pubDate>Wed, 13 Mar 2019 16:39:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.5/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trigonometric Functions</title>
-      <link>https://jimzenn.com/analysis/11.7/</link>
+      <link>https://jimzenn.github.io/analysis/11.7/</link>
       <pubDate>Thu, 14 Mar 2019 17:35:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/11.7/</guid>
+      <guid>https://jimzenn.github.io/analysis/11.7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Midterm Review</title>
-      <link>https://jimzenn.com/analysis/midterm2/</link>
+      <link>https://jimzenn.github.io/analysis/midterm2/</link>
       <pubDate>Fri, 22 Feb 2019 16:14:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/midterm2/</guid>
+      <guid>https://jimzenn.github.io/analysis/midterm2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Final</title>
-      <link>https://jimzenn.com/analysis/final/</link>
+      <link>https://jimzenn.github.io/analysis/final/</link>
       <pubDate>Fri, 22 Feb 2019 16:14:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/final/</guid>
+      <guid>https://jimzenn.github.io/analysis/final/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis</title>
-      <link>https://jimzenn.com/analysis/main/</link>
+      <link>https://jimzenn.github.io/analysis/main/</link>
       <pubDate>Mon, 06 Aug 2018 11:00:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/main/</guid>
+      <guid>https://jimzenn.github.io/analysis/main/</guid>
       <description></description>
     </item>
     

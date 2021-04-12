@@ -2,390 +2,390 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Optimizations on Jim Zenn</title>
-    <link>https://jimzenn.com/optimization/</link>
+    <link>https://jimzenn.github.io/optimization/</link>
     <description>Recent content in Optimizations on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Dec 2018 03:54:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/optimization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/optimization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Real Vector Spaces</title>
-      <link>https://jimzenn.com/optimization/2.1/</link>
+      <link>https://jimzenn.github.io/optimization/2.1/</link>
       <pubDate>Thu, 04 Oct 2018 14:52:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/2.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/2.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rank of a Matrix</title>
-      <link>https://jimzenn.com/optimization/2.2/</link>
+      <link>https://jimzenn.github.io/optimization/2.2/</link>
       <pubDate>Fri, 05 Oct 2018 15:52:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/2.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/2.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quadratic Forms</title>
-      <link>https://jimzenn.com/optimization/3.4/</link>
+      <link>https://jimzenn.github.io/optimization/3.4/</link>
       <pubDate>Fri, 05 Oct 2018 15:52:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/3.4/</guid>
+      <guid>https://jimzenn.github.io/optimization/3.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighborhoods</title>
-      <link>https://jimzenn.com/optimization/4.4/</link>
+      <link>https://jimzenn.github.io/optimization/4.4/</link>
       <pubDate>Tue, 09 Oct 2018 10:21:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/4.4/</guid>
+      <guid>https://jimzenn.github.io/optimization/4.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequences and Limits</title>
-      <link>https://jimzenn.com/optimization/5.1/</link>
+      <link>https://jimzenn.github.io/optimization/5.1/</link>
       <pubDate>Tue, 09 Oct 2018 12:39:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/5.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/5.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiability</title>
-      <link>https://jimzenn.com/optimization/5.2/</link>
+      <link>https://jimzenn.github.io/optimization/5.2/</link>
       <pubDate>Tue, 09 Oct 2018 13:57:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/5.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/5.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The derivative Matrix</title>
-      <link>https://jimzenn.com/optimization/5.3/</link>
+      <link>https://jimzenn.github.io/optimization/5.3/</link>
       <pubDate>Tue, 09 Oct 2018 14:14:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/5.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/5.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taylor Series</title>
-      <link>https://jimzenn.com/optimization/5.6/</link>
+      <link>https://jimzenn.github.io/optimization/5.6/</link>
       <pubDate>Tue, 09 Oct 2018 14:14:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/5.6/</guid>
+      <guid>https://jimzenn.github.io/optimization/5.6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://jimzenn.com/optimization/6.1/</link>
+      <link>https://jimzenn.github.io/optimization/6.1/</link>
       <pubDate>Tue, 09 Oct 2018 14:15:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/6.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/6.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditions for local minimizers</title>
-      <link>https://jimzenn.com/optimization/6.2/</link>
+      <link>https://jimzenn.github.io/optimization/6.2/</link>
       <pubDate>Wed, 10 Oct 2018 16:25:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/6.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/6.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golden Section Search</title>
-      <link>https://jimzenn.com/optimization/7.1/</link>
+      <link>https://jimzenn.github.io/optimization/7.1/</link>
       <pubDate>Sun, 14 Oct 2018 14:54:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/7.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/7.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fibonacci Search</title>
-      <link>https://jimzenn.com/optimization/7.2/</link>
+      <link>https://jimzenn.github.io/optimization/7.2/</link>
       <pubDate>Sun, 14 Oct 2018 16:18:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/7.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/7.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Newton&#39;s Method</title>
-      <link>https://jimzenn.com/optimization/7.3/</link>
+      <link>https://jimzenn.github.io/optimization/7.3/</link>
       <pubDate>Sun, 14 Oct 2018 23:49:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/7.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/7.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secant Method</title>
-      <link>https://jimzenn.com/optimization/7.4/</link>
+      <link>https://jimzenn.github.io/optimization/7.4/</link>
       <pubDate>Mon, 15 Oct 2018 15:53:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/7.4/</guid>
+      <guid>https://jimzenn.github.io/optimization/7.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://jimzenn.com/optimization/8.1/</link>
+      <link>https://jimzenn.github.io/optimization/8.1/</link>
       <pubDate>Mon, 15 Oct 2018 21:47:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/8.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/8.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The method of steepest descent</title>
-      <link>https://jimzenn.com/optimization/8.2/</link>
+      <link>https://jimzenn.github.io/optimization/8.2/</link>
       <pubDate>Tue, 16 Oct 2018 21:04:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/8.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/8.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Gradient Methods</title>
-      <link>https://jimzenn.com/optimization/8.3/</link>
+      <link>https://jimzenn.github.io/optimization/8.3/</link>
       <pubDate>Sun, 21 Oct 2018 23:07:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/8.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/8.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://jimzenn.com/optimization/9.1/</link>
+      <link>https://jimzenn.github.io/optimization/9.1/</link>
       <pubDate>Sat, 03 Nov 2018 17:40:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/9.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/9.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Newton&#39;s Method</title>
-      <link>https://jimzenn.com/optimization/9.2/</link>
+      <link>https://jimzenn.github.io/optimization/9.2/</link>
       <pubDate>Sat, 03 Nov 2018 17:51:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/9.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/9.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Levenberg-Marquardt Modification</title>
-      <link>https://jimzenn.com/optimization/9.3/</link>
+      <link>https://jimzenn.github.io/optimization/9.3/</link>
       <pubDate>Sat, 03 Nov 2018 17:52:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/9.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/9.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Newton&#39;s Method for Nonlinear Least-Squares</title>
-      <link>https://jimzenn.com/optimization/9.4/</link>
+      <link>https://jimzenn.github.io/optimization/9.4/</link>
       <pubDate>Sat, 03 Nov 2018 17:53:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/9.4/</guid>
+      <guid>https://jimzenn.github.io/optimization/9.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://jimzenn.com/optimization/10.1/</link>
+      <link>https://jimzenn.github.io/optimization/10.1/</link>
       <pubDate>Thu, 15 Nov 2018 15:53:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/10.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/10.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Conjugate Direction Algorithm</title>
-      <link>https://jimzenn.com/optimization/10.2/</link>
+      <link>https://jimzenn.github.io/optimization/10.2/</link>
       <pubDate>Mon, 03 Dec 2018 23:28:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/10.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/10.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Conjugate Gradient Algorithm</title>
-      <link>https://jimzenn.com/optimization/10.3/</link>
+      <link>https://jimzenn.github.io/optimization/10.3/</link>
       <pubDate>Tue, 04 Dec 2018 18:38:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/10.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/10.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://jimzenn.com/optimization/11.1/</link>
+      <link>https://jimzenn.github.io/optimization/11.1/</link>
       <pubDate>Thu, 15 Nov 2018 16:00:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/11.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/11.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximating the Inverse Hessian</title>
-      <link>https://jimzenn.com/optimization/11.2/</link>
+      <link>https://jimzenn.github.io/optimization/11.2/</link>
       <pubDate>Thu, 15 Nov 2018 16:00:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/11.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/11.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Rank One Correction Formula</title>
-      <link>https://jimzenn.com/optimization/11.3/</link>
+      <link>https://jimzenn.github.io/optimization/11.3/</link>
       <pubDate>Tue, 04 Dec 2018 19:57:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/11.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/11.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Least-Squares Analysis</title>
-      <link>https://jimzenn.com/optimization/12.1/</link>
+      <link>https://jimzenn.github.io/optimization/12.1/</link>
       <pubDate>Thu, 01 Nov 2018 23:38:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/12.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/12.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recursive Least-squares Alorithm</title>
-      <link>https://jimzenn.com/optimization/12.2/</link>
+      <link>https://jimzenn.github.io/optimization/12.2/</link>
       <pubDate>Thu, 01 Nov 2018 00:55:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/12.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/12.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to Linear Programming</title>
-      <link>https://jimzenn.com/optimization/15.1/</link>
+      <link>https://jimzenn.github.io/optimization/15.1/</link>
       <pubDate>Sun, 09 Dec 2018 13:40:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/15.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/15.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Standard Form Linear Programs</title>
-      <link>https://jimzenn.com/optimization/15.5/</link>
+      <link>https://jimzenn.github.io/optimization/15.5/</link>
       <pubDate>Sun, 09 Dec 2018 13:47:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/15.5/</guid>
+      <guid>https://jimzenn.github.io/optimization/15.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basic Solutions</title>
-      <link>https://jimzenn.com/optimization/15.6/</link>
+      <link>https://jimzenn.github.io/optimization/15.6/</link>
       <pubDate>Sun, 09 Dec 2018 15:59:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/15.6/</guid>
+      <guid>https://jimzenn.github.io/optimization/15.6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Properties of Basic Solutions</title>
-      <link>https://jimzenn.com/optimization/15.7/</link>
+      <link>https://jimzenn.github.io/optimization/15.7/</link>
       <pubDate>Sun, 09 Dec 2018 16:39:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/15.7/</guid>
+      <guid>https://jimzenn.github.io/optimization/15.7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://jimzenn.com/optimization/20.1/</link>
+      <link>https://jimzenn.github.io/optimization/20.1/</link>
       <pubDate>Sun, 09 Dec 2018 17:35:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/20.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/20.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Problem Formulation</title>
-      <link>https://jimzenn.com/optimization/20.2/</link>
+      <link>https://jimzenn.github.io/optimization/20.2/</link>
       <pubDate>Sun, 09 Dec 2018 17:49:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/20.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/20.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tangent and Normal Spaces</title>
-      <link>https://jimzenn.com/optimization/20.3/</link>
+      <link>https://jimzenn.github.io/optimization/20.3/</link>
       <pubDate>Sun, 09 Dec 2018 22:36:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/20.3/</guid>
+      <guid>https://jimzenn.github.io/optimization/20.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lagrange Condition</title>
-      <link>https://jimzenn.com/optimization/20.4/</link>
+      <link>https://jimzenn.github.io/optimization/20.4/</link>
       <pubDate>Sun, 09 Dec 2018 23:04:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/20.4/</guid>
+      <guid>https://jimzenn.github.io/optimization/20.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second-Order Conditions</title>
-      <link>https://jimzenn.com/optimization/20.5/</link>
+      <link>https://jimzenn.github.io/optimization/20.5/</link>
       <pubDate>Sun, 09 Dec 2018 23:49:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/20.5/</guid>
+      <guid>https://jimzenn.github.io/optimization/20.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimizing Quadratics Subject to Linear Constraints</title>
-      <link>https://jimzenn.com/optimization/20.6/</link>
+      <link>https://jimzenn.github.io/optimization/20.6/</link>
       <pubDate>Mon, 10 Dec 2018 00:05:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/20.6/</guid>
+      <guid>https://jimzenn.github.io/optimization/20.6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Karush-Kuhn-Tucker Condition</title>
-      <link>https://jimzenn.com/optimization/21.1/</link>
+      <link>https://jimzenn.github.io/optimization/21.1/</link>
       <pubDate>Mon, 10 Dec 2018 03:23:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/21.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/21.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second-Order Conditions</title>
-      <link>https://jimzenn.com/optimization/21.2/</link>
+      <link>https://jimzenn.github.io/optimization/21.2/</link>
       <pubDate>Mon, 10 Dec 2018 03:54:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/21.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/21.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimization</title>
-      <link>https://jimzenn.com/optimization/main/</link>
+      <link>https://jimzenn.github.io/optimization/main/</link>
       <pubDate>Mon, 01 Oct 2018 11:00:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/main/</guid>
+      <guid>https://jimzenn.github.io/optimization/main/</guid>
       <description></description>
     </item>
     

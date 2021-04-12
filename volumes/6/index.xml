@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 on Jim Zenn</title>
-    <link>https://jimzenn.com/volumes/6/</link>
+    <link>https://jimzenn.github.io/volumes/6/</link>
     <description>Recent content in 6 on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Mar 2019 01:24:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/volumes/6/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/volumes/6/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Bernoulli Process</title>
-      <link>https://jimzenn.com/probability-theory/6.1/</link>
+      <link>https://jimzenn.github.io/probability-theory/6.1/</link>
       <pubDate>Sun, 10 Mar 2019 14:09:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/6.1/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/6.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://jimzenn.com/optimization/6.1/</link>
+      <link>https://jimzenn.github.io/optimization/6.1/</link>
       <pubDate>Tue, 09 Oct 2018 14:15:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/6.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/6.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Poisson Process</title>
-      <link>https://jimzenn.com/probability-theory/6.2/</link>
+      <link>https://jimzenn.github.io/probability-theory/6.2/</link>
       <pubDate>Wed, 13 Mar 2019 01:24:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/6.2/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/6.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditions for local minimizers</title>
-      <link>https://jimzenn.com/optimization/6.2/</link>
+      <link>https://jimzenn.github.io/optimization/6.2/</link>
       <pubDate>Wed, 10 Oct 2018 16:25:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/6.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/6.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inner Products and Norms</title>
-      <link>https://jimzenn.com/linear-algebra/6.1/</link>
+      <link>https://jimzenn.github.io/linear-algebra/6.1/</link>
       <pubDate>Mon, 30 Jul 2018 12:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/linear-algebra/6.1/</guid>
+      <guid>https://jimzenn.github.io/linear-algebra/6.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gram-Schmidt Orthogonalization process</title>
-      <link>https://jimzenn.com/linear-algebra/6.2/</link>
+      <link>https://jimzenn.github.io/linear-algebra/6.2/</link>
       <pubDate>Tue, 31 Jul 2018 12:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/linear-algebra/6.2/</guid>
+      <guid>https://jimzenn.github.io/linear-algebra/6.2/</guid>
       <description></description>
     </item>
     

@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Jim Zenn</title>
-    <link>https://jimzenn.com/volumes/2/</link>
+    <link>https://jimzenn.github.io/volumes/2/</link>
     <description>Recent content in 2 on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Jan 2019 10:24:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/volumes/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/volumes/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Real Vector Spaces</title>
-      <link>https://jimzenn.com/optimization/2.1/</link>
+      <link>https://jimzenn.github.io/optimization/2.1/</link>
       <pubDate>Thu, 04 Oct 2018 14:52:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/2.1/</guid>
+      <guid>https://jimzenn.github.io/optimization/2.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limits of Sequences</title>
-      <link>https://jimzenn.com/analysis/2.1/</link>
+      <link>https://jimzenn.github.io/analysis/2.1/</link>
       <pubDate>Wed, 08 Aug 2018 12:43:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.1/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discrete Random Variable</title>
-      <link>https://jimzenn.com/probability-theory/2.1/</link>
+      <link>https://jimzenn.github.io/probability-theory/2.1/</link>
       <pubDate>Mon, 09 Jul 2018 10:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/2.1/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/2.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rank of a Matrix</title>
-      <link>https://jimzenn.com/optimization/2.2/</link>
+      <link>https://jimzenn.github.io/optimization/2.2/</link>
       <pubDate>Fri, 05 Oct 2018 15:52:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/2.2/</guid>
+      <guid>https://jimzenn.github.io/optimization/2.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Discussion about Proofs</title>
-      <link>https://jimzenn.com/analysis/2.2/</link>
+      <link>https://jimzenn.github.io/analysis/2.2/</link>
       <pubDate>Sun, 12 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.2/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probability Mass Function</title>
-      <link>https://jimzenn.com/probability-theory/2.2/</link>
+      <link>https://jimzenn.github.io/probability-theory/2.2/</link>
       <pubDate>Wed, 11 Jul 2018 10:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/2.2/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/2.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limit Theorems for Sequences</title>
-      <link>https://jimzenn.com/analysis/2.3/</link>
+      <link>https://jimzenn.github.io/analysis/2.3/</link>
       <pubDate>Mon, 13 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.3/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functions of Random Variables</title>
-      <link>https://jimzenn.com/probability-theory/2.3/</link>
+      <link>https://jimzenn.github.io/probability-theory/2.3/</link>
       <pubDate>Mon, 16 Jul 2018 10:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/2.3/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/2.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expectation, Mean, and Variance</title>
-      <link>https://jimzenn.com/probability-theory/2.4/</link>
+      <link>https://jimzenn.github.io/probability-theory/2.4/</link>
       <pubDate>Wed, 30 Jan 2019 22:47:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/2.4/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/2.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monotone Sequences and Cauchy Sequences</title>
-      <link>https://jimzenn.com/analysis/2.4/</link>
+      <link>https://jimzenn.github.io/analysis/2.4/</link>
       <pubDate>Thu, 16 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.4/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint PMFs of Multiple Random Variables</title>
-      <link>https://jimzenn.com/probability-theory/2.5/</link>
+      <link>https://jimzenn.github.io/probability-theory/2.5/</link>
       <pubDate>Wed, 30 Jan 2019 21:37:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/2.5/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/2.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subsequences</title>
-      <link>https://jimzenn.com/analysis/2.5/</link>
+      <link>https://jimzenn.github.io/analysis/2.5/</link>
       <pubDate>Mon, 20 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.5/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditioning</title>
-      <link>https://jimzenn.com/probability-theory/2.6/</link>
+      <link>https://jimzenn.github.io/probability-theory/2.6/</link>
       <pubDate>Wed, 18 Jul 2018 10:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/2.6/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/2.6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Independence</title>
-      <link>https://jimzenn.com/probability-theory/2.7/</link>
+      <link>https://jimzenn.github.io/probability-theory/2.7/</link>
       <pubDate>Thu, 31 Jan 2019 10:24:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/2.7/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/2.7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alternating Series and Integral Tests</title>
-      <link>https://jimzenn.com/analysis/2.9/</link>
+      <link>https://jimzenn.github.io/analysis/2.9/</link>
       <pubDate>Wed, 22 Aug 2018 11:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/analysis/2.9/</guid>
+      <guid>https://jimzenn.github.io/analysis/2.9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear Transformation</title>
-      <link>https://jimzenn.com/linear-algebra/2.1/</link>
+      <link>https://jimzenn.github.io/linear-algebra/2.1/</link>
       <pubDate>Wed, 11 Jul 2018 11:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/linear-algebra/2.1/</guid>
+      <guid>https://jimzenn.github.io/linear-algebra/2.1/</guid>
       <description>&lt;p class=&#34;hide&#34;&gt;
 Linear Transformation, Identity Transformation, Zero Transformation, Kernel (Null Space), Range (Image), Nullity, Rank, One-to-One, Onto.
 &lt;/p&gt;</description>
@@ -159,55 +159,55 @@ Linear Transformation, Identity Transformation, Zero Transformation, Kernel (Nul
     
     <item>
       <title>The Matrix Representation of a Linear Transformation</title>
-      <link>https://jimzenn.com/linear-algebra/2.2/</link>
+      <link>https://jimzenn.github.io/linear-algebra/2.2/</link>
       <pubDate>Mon, 16 Jul 2018 11:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/linear-algebra/2.2/</guid>
+      <guid>https://jimzenn.github.io/linear-algebra/2.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Composition of Linear Transformations and Matrix Multiplication</title>
-      <link>https://jimzenn.com/linear-algebra/2.3/</link>
+      <link>https://jimzenn.github.io/linear-algebra/2.3/</link>
       <pubDate>Wed, 18 Jul 2018 11:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/linear-algebra/2.3/</guid>
+      <guid>https://jimzenn.github.io/linear-algebra/2.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Invertibility and Isomorphisms</title>
-      <link>https://jimzenn.com/linear-algebra/2.4/</link>
+      <link>https://jimzenn.github.io/linear-algebra/2.4/</link>
       <pubDate>Thu, 19 Jul 2018 11:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/linear-algebra/2.4/</guid>
+      <guid>https://jimzenn.github.io/linear-algebra/2.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Change of Coordinate Matrix</title>
-      <link>https://jimzenn.com/linear-algebra/2.5/</link>
+      <link>https://jimzenn.github.io/linear-algebra/2.5/</link>
       <pubDate>Mon, 23 Jul 2018 12:00:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/linear-algebra/2.5/</guid>
+      <guid>https://jimzenn.github.io/linear-algebra/2.5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear Stability Analysis</title>
-      <link>https://jimzenn.com/dynamics/2.4/</link>
+      <link>https://jimzenn.github.io/dynamics/2.4/</link>
       <pubDate>Thu, 04 Oct 2018 14:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/dynamics/2.4/</guid>
+      <guid>https://jimzenn.github.io/dynamics/2.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First-order systems</title>
-      <link>https://jimzenn.com/dynamics/2.1/</link>
+      <link>https://jimzenn.github.io/dynamics/2.1/</link>
       <pubDate>Wed, 03 Oct 2018 14:03:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/dynamics/2.1/</guid>
+      <guid>https://jimzenn.github.io/dynamics/2.1/</guid>
       <description></description>
     </item>
     

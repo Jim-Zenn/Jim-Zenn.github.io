@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 on Jim Zenn</title>
-    <link>https://jimzenn.com/volumes/4/</link>
+    <link>https://jimzenn.github.io/volumes/4/</link>
     <description>Recent content in 4 on Jim Zenn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Jan 2019 22:39:00 +0800</lastBuildDate>
     
-	<atom:link href="https://jimzenn.com/volumes/4/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jimzenn.github.io/volumes/4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Derived Distributions</title>
-      <link>https://jimzenn.com/probability-theory/4.1/</link>
+      <link>https://jimzenn.github.io/probability-theory/4.1/</link>
       <pubDate>Wed, 25 Jul 2018 10:34:48 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/4.1/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/4.1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covariance and Correlation</title>
-      <link>https://jimzenn.com/probability-theory/4.2/</link>
+      <link>https://jimzenn.github.io/probability-theory/4.2/</link>
       <pubDate>Wed, 16 Jan 2019 09:33:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/4.2/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/4.2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Expectation and Variance Revisited</title>
-      <link>https://jimzenn.com/probability-theory/4.3/</link>
+      <link>https://jimzenn.github.io/probability-theory/4.3/</link>
       <pubDate>Fri, 18 Jan 2019 09:02:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/4.3/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/4.3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transforms</title>
-      <link>https://jimzenn.com/probability-theory/4.4/</link>
+      <link>https://jimzenn.github.io/probability-theory/4.4/</link>
       <pubDate>Thu, 31 Jan 2019 13:30:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/4.4/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/4.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighborhoods</title>
-      <link>https://jimzenn.com/optimization/4.4/</link>
+      <link>https://jimzenn.github.io/optimization/4.4/</link>
       <pubDate>Tue, 09 Oct 2018 10:21:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/optimization/4.4/</guid>
+      <guid>https://jimzenn.github.io/optimization/4.4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sum of a Random Number of Independent Random Variables</title>
-      <link>https://jimzenn.com/probability-theory/4.5/</link>
+      <link>https://jimzenn.github.io/probability-theory/4.5/</link>
       <pubDate>Thu, 31 Jan 2019 22:39:00 +0800</pubDate>
       
-      <guid>https://jimzenn.com/probability-theory/4.5/</guid>
+      <guid>https://jimzenn.github.io/probability-theory/4.5/</guid>
       <description></description>
     </item>
     
